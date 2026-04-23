@@ -8,23 +8,25 @@ if os.path.isfile(filename):
 	with open(filename) as f:
 	    passwords = f.read().splitlines()
 	    if (len(passwords) > 0):
-	    	print ('%s Passwords loads successfully' % len(passwords))
-else:
-	print ('Please create passwords file (pass.txt)')
+	    	print ('%s Passwords loads successfully' % len(passwords)	print ('Please create passwords file (pass.txt)')
 	exit()
 
 
 
-
 def userExists(username):
-	r = requests.get('https://www.instagram.com/%s/?__a=1' % username) 
-	if (r.status_code == 404):
-		print ('User not found')
-		return False
-	elif (r.status_code == 200):
-		followdata = json.loads(r.text)
-		fUserID = followdata['user']['id']
-		return {'username':username,'id':fUserID}
+    r = requests.get('https://www.instagram.com/%s/?__a=1' % username)
+
+    if (r.status_code == 404):
+        print('User not found')
+        return False
+    elif (r.status_code == 200):
+        if r.text.strip().startswith('{'):
+            followdata = json.loads(r.text)
+            fUserID = followdata['user']['id']
+            return {'username': username, 'id': fUserID}
+        else:
+            print("Blocked or invalid response")
+            return False
 
 
 def Login(username,password):
@@ -106,5 +108,8 @@ for i in range(len(passwords)):
 			exit()
 		else:
 			continue
+		
+
+
 		
 
