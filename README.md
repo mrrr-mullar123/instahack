@@ -1,10 +1,10 @@
-<!-- 🥷 saintcoles hacker theme -->
+<!-- 🥷 SAINTCOLE hacker theme -->
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=saintcoles;ethical+hacker;python+developer;termux+user" />
 </p>
 
-<h1 align="center">🥷 saintcoles</h1>
+<h1 align="center">🥷SAINTCOLE🥷</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/status-learning-00ff00?style=for-the-badge&logo=linux&logoColor=black"/>
