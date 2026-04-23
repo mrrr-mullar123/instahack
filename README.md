@@ -20,3 +20,14 @@
 > role: ethical hacker / developer
 > location: L.A
 > mission: learn, build, secure
+
+python ██████████░░░░░░ 60%
+bash   ████████░░░░░░░░ 45%
+linux  █████████░░░░░░░ 55%
+git    ███████░░░░░░░░░ 40%
+
+[+] api experiments
+[+] termux automation
+[+] security labs (safe practice)
+
+https://github.com/mrrr-mullar123
