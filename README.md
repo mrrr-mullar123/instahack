@@ -1,33 +1,14 @@
-<!-- 🥷 saintcoles hacker theme -->
+<h1 align="center">🥷🥷SAINTCOLE🥷🥷</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=saintcoles;ethical+hacker;python+developer;termux+user" />
-</p>
-
-<h1 align="center">🥷 saintcoles</h1>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/status-learning-00ff00?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/focus-cybersecurity-00ff00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/platform-termux-00ff00?style=for-the-badge"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=ethical+hacker;developer;termux+user;learning+cybersecurity..." />
 </p>
 
 ---
 
-## 🥷🥷 whoami🥷🥷
+## 🥷 KILL🥷🥷
 ```bash
-> user: saintcoles
-> role: ethical hacker / developer
-> location: L.A
-> mission: learn, build, secure
-
-python ██████████░░░░░░ 60%
-bash   ████████░░░░░░░░ 45%
-linux  █████████░░░░░░░ 55%
-git    ███████░░░░░░░░░ 40%
-
-[+] api experiments
-[+] termux automation
-[+] security labs (safe practice)
-
-https://github.com/mrrr-mullar123
+> User: saintcoles
+> Role: ethical hacker / developer
+> Location: L.A,US
+> Mission: learn, build, secure
